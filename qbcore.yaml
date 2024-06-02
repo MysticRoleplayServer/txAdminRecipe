@@ -546,7 +546,12 @@ tasks:
   - action: download_github
     dest: ./resources/[extra]/mt-clothingbag
     ref: main
-    src: https://github.com/MysticRoleplayServer/mt-clothingbag
+    src: https://github.com/MysticRoleplayServer/mt-clothingbag\
+
+  - action: download_github
+    dest: ./resources/[jim]/jim-consumables
+    ref: master
+    src: https://github.com/MysticRoleplayServer/jim-consumables
 
   # Clean up
   - action: remove_path
