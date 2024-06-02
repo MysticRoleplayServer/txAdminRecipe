@@ -450,7 +450,7 @@ tasks:
   - action: download_github
     dest: ./resources/[ps]/ps-donator
     ref: main
-    src: https://github.com/MysticRoleplayServer/qb-donator
+    src: https://github.com/MysticRoleplayServer/ps-donator
 
   - action: download_github
     dest: ./resources/[extra]/ND_GunAnims
