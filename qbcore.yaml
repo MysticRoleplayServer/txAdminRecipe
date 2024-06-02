@@ -540,7 +540,7 @@ tasks:
 
   - action: download_github
     dest: ./resources/[jim]/jim-jobgarage
-    ref: master
+    ref: main
     src: https://github.com/MysticRoleplayServer/jim-jobgarage
 
   - action: download_github
@@ -550,7 +550,7 @@ tasks:
 
   - action: download_github
     dest: ./resources/[jim]/jim-consumables
-    ref: master
+    ref: main
     src: https://github.com/MysticRoleplayServer/jim-consumables
 
   # Clean up
