@@ -63,12 +63,12 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/progressbar
     ref: main
-    src: https://github.com/qbcore-framework/progressbar
+    src: https://github.com/MysticRoleplayServer/progressbar
 
   - action: download_github
     dest: ./resources/[standalone]/interact-sound
     ref: master
-    src: https://github.com/qbcore-framework/interact-sound
+    src: https://github.com/MysticRoleplayServer/interact-sound
 
   - action: download_github
     dest: ./resources/[standalone]/connectqueue
@@ -78,7 +78,7 @@ tasks:
   - action: download_github
     dest: ./resources/[standalone]/PolyZone
     ref: master
-    src: https://github.com/qbcore-framework/PolyZone
+    src: https://github.com/MysticRoleplayServer/PolyZone
 
   - action: download_github
     dest: ./resources/[standalone]/LegacyFuel
@@ -122,7 +122,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-core
     ref: main
-    src: https://github.com/qbcore-framework/qb-core
+    src: https://github.com/MysticRoleplayServer/qb-core
 
   - action: download_github
     dest: ./resources/[qb]/qb-scoreboard
@@ -132,17 +132,17 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-adminmenu
     ref: main
-    src: https://github.com/qbcore-framework/qb-adminmenu
+    src: https://github.com/MysticRoleplayServer/qb-adminmenu
 
   - action: download_github
     dest: ./resources/[qb]/qb-multicharacter
     ref: main
-    src: https://github.com/qbcore-framework/qb-multicharacter
+    src: https://github.com/MysticRoleplayServer/qb-multicharacter
 
   - action: download_github
     dest: ./resources/[qb]/qb-target
     ref: main
-    src: https://github.com/qbcore-framework/qb-target
+    src: https://github.com/MysticRoleplayServer/qb-target
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclesales
@@ -165,7 +165,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-prison
     ref: main
-    src: https://github.com/qbcore-framework/qb-prison
+    src: https://github.com/MysticRoleplayServer/qb-prison
 
   - action: download_github
     dest: ./resources/[qb]/qb-hud
@@ -175,7 +175,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-management
     ref: main
-    src: https://github.com/qbcore-framework/qb-management
+    src: https://github.com/MysticRoleplayServer/qb-management
 
   - action: download_github
     dest: ./resources/[qb]/qb-weed
@@ -190,7 +190,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
     ref: main
-    src: https://github.com/qbcore-framework/qb-inventory
+    src: https://github.com/MysticRoleplayServer/qb-inventory
 
   - action: download_github
     dest: ./resources/[qb]/qb-houses
@@ -200,12 +200,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-garages
     ref: main
-    src: https://github.com/qbcore-framework/qb-garages
+    src: https://github.com/MysticRoleplayServer/qb-garages
 
   - action: download_github
     dest: ./resources/[qb]/qb-ambulancejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-ambulancejob
+    src: https://github.com/MysticRoleplayServer/qb-ambulancejob
 
   - action: waste_time # prevent github throttling
     seconds: 10
@@ -213,7 +213,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-radialmenu
     ref: main
-    src: https://github.com/qbcore-framework/qb-radialmenu
+    src: https://github.com/MysticRoleplayServer/qb-radialmenu
 
   - action: download_github
     dest: ./resources/[qb]/qb-crypto
@@ -233,12 +233,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-apartments
     ref: main
-    src: https://github.com/qbcore-framework/qb-apartments
+    src: https://github.com/MysticRoleplayServer/qb-apartments
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclekeys
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehiclekeys
+    src: https://github.com/MysticRoleplayServer/qb-vehiclekeys
 
   - action: download_github
     dest: ./resources/[qb]/qb-mechanicjob
@@ -261,7 +261,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-weapons
     ref: main
-    src: https://github.com/qbcore-framework/qb-weapons
+    src: https://github.com/MysticRoleplayServer/qb-weapons
 
   - action: download_github
     dest: ./resources/[qb]/qb-scrapyard
@@ -286,12 +286,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
     ref: main
-    src: https://github.com/qbcore-framework/qb-spawn
+    src: https://github.com/MysticRoleplayServer/qb-spawn
 
   - action: download_github
     dest: ./resources/[qb]/qb-smallresources
     ref: main
-    src: https://github.com/qbcore-framework/qb-smallresources
+    src: https://github.com/MysticRoleplayServer/qb-smallresources
 
   - action: download_github
     dest: ./resources/[qb]/qb-recyclejob
@@ -314,7 +314,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-cityhall
     ref: main
-    src: https://github.com/qbcore-framework/qb-cityhall
+    src: https://github.com/MysticRoleplayServer/qb-cityhall
 
   - action: download_github
     dest: ./resources/[qb]/qb-truckrobbery
@@ -324,7 +324,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-pawnshop
     ref: main
-    src: https://github.com/qbcore-framework/qb-pawnshop
+    src: https://github.com/MysticRoleplayServer/qb-pawnshop
 
   - action: download_github
     dest: ./resources/[qb]/qb-minigames
@@ -334,12 +334,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-taxijob
     ref: main
-    src: https://github.com/qbcore-framework/qb-taxijob
+    src: https://github.com/MysticRoleplayServer/qb-taxijob
 
   - action: download_github
     dest: ./resources/[qb]/qb-busjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-busjob
+    src: https://github.com/MysticRoleplayServer/qb-busjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-newsjob
@@ -357,12 +357,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-bankrobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-bankrobbery
+    src: https://github.com/MysticRoleplayServer/qb-bankrobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-banking
     ref: main
-    src: https://github.com/qbcore-framework/qb-banking
+    src: https://github.com/MysticRoleplayServer/qb-banking
 
   - action: download_github
     dest: ./resources/[qb]/qb-clothing
@@ -382,7 +382,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-garbagejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-garbagejob
+    src: https://github.com/MysticRoleplayServer/qb-garbagejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-drugs
@@ -392,7 +392,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-shops
     ref: main
-    src: https://github.com/qbcore-framework/qb-shops
+    src: https://github.com/MysticRoleplayServer/qb-shops
 
   - action: download_github
     dest: ./resources/[qb]/qb-interior
@@ -402,7 +402,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-menu
     ref: main
-    src: https://github.com/qbcore-framework/qb-menu
+    src: https://github.com/MysticRoleplayServer/qb-menu
 
   - action: waste_time # prevent github throttling
     seconds: 10
@@ -416,6 +416,137 @@ tasks:
     dest: ./resources/[qb]/qb-loading
     ref: main
     src: https://github.com/qbcore-framework/qb-loading
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-objectspawner
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-objectspawner
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-multijob
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-multijob
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-dispatch
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-dispatch
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-mdt
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-mdt
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-pause
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-pause
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-hud
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ps-hud
+
+  - action: download_github
+    dest: ./resources/[ps]/ps-donator
+    ref: main
+    src: https://github.com/MysticRoleplayServer/qb-donator
+
+  - action: download_github
+    dest: ./resources/[extra]/ND_GunAnims
+    ref: main
+    src: https://github.com/MysticRoleplayServer/ND_GunAnims
+
+  - action: waste_time # prevent github throttling
+    seconds: 10
+
+  - action: download_github
+    dest: ./resources/[extra]/bd_loadingscreen
+    ref: main
+    src: https://github.com/MysticRoleplayServer/bd_loadingscreen
+
+  - action: download_github
+    dest: ./resources/[extra]/mtmc-scoreboard
+    ref: main
+    src: https://github.com/MysticRoleplayServer/mtmc-scoreboard
+
+  - action: download_github
+    dest: ./resources/[extra]/Ricky-VinewoodSign
+    ref: main
+    src: https://github.com/MysticRoleplayServer/Ricky-VinewoodSign
+
+  - action: download_github
+    dest: ./resources/[extra]/LGF_PauseMenu
+    ref: main
+    src: https://github.com/MysticRoleplayServer/LGF_PauseMenu
+
+  - action: download_github
+    dest: ./resources/[extra]/GG-Drivingschool
+    ref: main
+    src: https://github.com/MysticRoleplayServer/GG-Drivingschool
+
+  - action: download_github
+    dest: ./resources/[extra]/illenium-appearance
+    ref: main
+    src: https://github.com/MysticRoleplayServer/illenium-appearance
+
+  - action: download_github
+    dest: ./resources/[extra]/cdn-fuel
+    ref: main
+    src: https://github.com/MysticRoleplayServer/cdn-fuel
+
+  - action: download_github
+    dest: ./resources/[jim]/jim-trains
+    ref: main
+    src: https://github.com/MysticRoleplayServer/jim-trains
+
+  - action: download_github
+    dest: ./resources/[extra]/rpemotes
+    ref: master
+    src: https://github.com/MysticRoleplayServer/rpemotes
+
+  - action: download_github
+    dest: ./resources/[extra]/mm_radio
+    ref: main
+    src: https://github.com/MysticRoleplayServer/mm_radio
+
+  - action: waste_time # prevent github throttling
+    seconds: 10
+
+  - action: download_github
+    dest: ./resources/[extra]/wp-placeables
+    ref: main
+    src: https://github.com/MysticRoleplayServer/wp-placeables
+
+  - action: download_github
+    dest: ./resources/[extra]/jim-payments
+    ref: main
+    src: https://github.com/MysticRoleplayServer/jim-payments
+
+  - action: download_github
+    dest: ./resources/[extra]/don-jewellery
+    ref: main
+    src: https://github.com/MysticRoleplayServer/don-jewellery
+
+  - action: download_github
+    dest: ./resources/[extra]/wk_wars2x
+    ref: master
+    src: https://github.com/MysticRoleplayServer/wk_wars2x
+
+  - action: download_github
+    dest: ./resources/[extra]/scully_cayoperico
+    ref: main
+    src: https://github.com/MysticRoleplayServer/scully_cayoperico
+
+  - action: download_github
+    dest: ./resources/[jim]/jim-jobgarage
+    ref: master
+    src: https://github.com/MysticRoleplayServer/jim-jobgarage
+
+  - action: download_github
+    dest: ./resources/[extra]/mt-clothingbag
+    ref: main
+    src: https://github.com/MysticRoleplayServer/mt-clothingbag
 
   # Clean up
   - action: remove_path
